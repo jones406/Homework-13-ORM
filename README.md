@@ -1,9 +1,9 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## Description  
-Task: 
+Tasks: 
   - Build the back end for an e-commerce site by modifying starter code. 
-  - Configure a working Express.js API to use Sequelize to interact with a MySQL database.
+  - Configure a working Express.js API to use sequelize to interact with a mySQL database.
  
 ## Table of Contents
 - [Installation](#installation)
@@ -15,7 +15,10 @@ Task:
 - [Questions](#questions)
 
 ## Installation
-To use this node.js application, first run the command "npm i" from the package.json file. Then type "npm run seed" to seed the db. Finally, run the command "node server.js" to start the server. To test routes and view data, please see the demo video here https://www.youtube.com/watch?v=riZJZcDyGOY&feature=youtu.be
+- To use this node.js application, first run the command "npm i" from the package.json file. 
+- Type "npm run seed" to seed the db
+- Run the command "node server.js" to start the server. 
+- To test routes and view data, see the demo https://www.youtube.com/watch?v=riZJZcDyGOY&feature=youtu.be
   
 ## User Story
   ```md
