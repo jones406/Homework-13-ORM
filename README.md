@@ -3,9 +3,7 @@
 ## Description  
 Task: 
   - Build the back end for an e-commerce site by modifying starter code. 
-  - Configure a working Express.js API to use Sequelize to interact with a MySQL database. 
-  - Provide a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. 
-  - Submit a link to the video and add it to the readme of your project.
+  - Configure a working Express.js API to use Sequelize to interact with a MySQL database.
  
 ## Table of Contents
 - [Installation](#installation)
@@ -17,7 +15,7 @@ Task:
 - [Questions](#questions)
 
 ## Installation
-  To use this node.js application, first run the command "npm i" from the package.json file. Then type "npm run seed" to seed the db. Finally, run the command "node server.js" to start the server. To test routes and view data, please see the demo video here https://www.youtube.com/watch?v=riZJZcDyGOY&feature=youtu.be
+To use this node.js application, first run the command "npm i" from the package.json file. Then type "npm run seed" to seed the db. Finally, run the command "node server.js" to start the server. To test routes and view data, please see the demo video here https://www.youtube.com/watch?v=riZJZcDyGOY&feature=youtu.be
   
 ## User Story
   ```md
@@ -28,7 +26,7 @@ Task:
 
 ```md
 GIVEN a functional Express.js API
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
+WHEN I add my database name, mySQL username, and mySQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
 WHEN I enter schema and seed commands
 THEN a development database is created and is seeded with test data
@@ -42,21 +40,14 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Credits
   Brooke Jones  
     
-    ## License MIT
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-    
-      https://www.mit.edu/~amini/LICENSE.md  
-    
+## License MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
       
 ## Contributing
- Contributers: Worked with classmates Ethan Cho, Mary Lou Hoover, and tutor Tyler Arthur
- Suggestions can be provided at the email link below.  
+ Contributers: Worked with classmate Ethan Cho and tutor Tyler Arthur
 
-## Test
-  N/A
-
-  ## Questions
-  For questions, please check out my Github profile or email me.  
+## Questions
+For questions or suggestions, please email me.  
 [My Github](https://www.github.com/jones406)  
 [Email Me](mailto:brookejones406@gmail.com)  
 
